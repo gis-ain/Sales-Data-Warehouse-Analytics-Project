@@ -9,13 +9,14 @@ The goal of this project is to demonstrate **end-to-end data modeling and analyt
 1. **Data Cleaning & Preparation**
    - Raw sales data was cleaned and standardized using Excel.
    - Issues such as missing values, inconsistent text, and duplicate locations were resolved.
-   - Dimensions such as `customer`, `product`, `location`, `shipping`, and `date` were created to support a star-schema model using SQL.
+   - Dimensions such as `customer`, `product`, `location`, `shipping`, and `date` were created to support a star-schema model using [SQL](https://github.com/gis-ain/Sales-Data-Warehouse-Analytics-Project/blob/main/global_superstore_db_cleaning_and_modeling.ipynb).
 
 2. **Data Modeling**
    - Built a **fact table (`fact_sales`)** and multiple dimension tables (`customer`, `product`, `location`, `shipping`, `date`).
    - Applied **surrogate keys** for dimensions and ensured **referential integrity**.
    - Addressed **duplicate dimension rows** to prevent fact table inflation.
    - Designed **role-playing date dimensions** for order and ship dates.
+     
 
 3. **SQL Implementation**
    - Loaded clean data into MySQL.
