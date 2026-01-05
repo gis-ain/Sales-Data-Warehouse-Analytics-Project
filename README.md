@@ -1,6 +1,7 @@
 # Sales Data Warehouse & Analytics Project
 
 This repository contains my **second data analytics portfolio project**, focused on building a **star-schema sales data warehouse** and performing exploratory analysis using SQL, Excel, and Power BI.
+the dataset for this project are from [Kaggle](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 
 ## Project Overview
 
