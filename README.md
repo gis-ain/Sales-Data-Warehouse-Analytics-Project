@@ -25,7 +25,7 @@ The goal of this project is to demonstrate **end-to-end data modeling and analyt
    - Validated data quality using count checks and duplicate detection queries.
 
 4. **Analysis & Visualization**
-   - Performed exploratory data analysis (EDA) in (**Power BI**)[https://github.com/gis-ain/Sales-Data-Warehouse-Analytics-Project/blob/main/Global%20superstore%20sale%20analysis%20report.pdf].
+   - Performed exploratory data analysis (EDA) in [**Power BI**](https://github.com/gis-ain/Sales-Data-Warehouse-Analytics-Project/blob/main/Global%20superstore%20sale%20analysis%20report.pdf).
    - Created insights such as:
      - Profit and sales by region, market, and category
      - Monthly and yearly trends
