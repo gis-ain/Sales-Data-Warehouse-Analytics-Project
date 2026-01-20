@@ -47,12 +47,6 @@ The goal of this project is to demonstrate **end-to-end data modeling and analyt
 - **Analytics & Visualization**: Power BI
 - **Version Control**: GitHub
 
-## Next Steps (To Expand)
-
-- Include more complex **DAX measures** in Power BI.
-- Add **time intelligence analysis** (YoY growth, rolling averages).
-- Document **lessons learned** and performance optimization techniques.
-- Link dashboards to GitHub using images or interactive reports.
 
 ---
 
